@@ -37,7 +37,7 @@ The PyTorch implementation for Flex-GCN
 | [Weight Unsharing](https://github.com/tamasino52/Any-GCN)  |    52.4mm     |    41.2mm     |
 |      [MM-GCN](https://github.com/JaeYungLee/MM_GCN)       |    51.7mm     |    40.3mm     |
 |     [Modulated](https://github.com/ZhimingZo/Modulated-GCN)     |    49.4mm     |    39.1mm     |
-|       Ours        |    46.9mm     |    38.6mm     |
+|       Ours        |    46.7mm     |    38.3mm     |
 
 ## Quick Start
 
