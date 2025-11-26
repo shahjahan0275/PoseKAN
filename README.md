@@ -2,7 +2,7 @@
 
 # [PoseKAN: Adaptive Graph Kolmogorov-Arnold Network for 3D Human Pose Estimation](https://doi.org/10.48550/arXiv.2407.19077) [International Conference on 3D Vision 2026]
 
-This repository contains the official PyTorch implementation of the Iterative Graph Filtering Network for 3D Human Pose Estimation authored by Abu Taib Mohammed Shahjahan and A. Ben Hamza. If you discover our code to be valuable for your research, kindly consider including the following citation:
+This repository contains the official PyTorch implementation of the  flexible graph Kolmogorov-Arnold Network (PoseKAN), a novel framework that extends KANs to graph-based learning for 3D human pose estimation authored by Abu Taib Mohammed Shahjahan and A. Ben Hamza. If you discover our code to be valuable for your research, kindly consider including the following citation:
 
  
  ```
@@ -37,6 +37,7 @@ The PyTorch implementation for Flex-GCN
 | [Weight Unsharing](https://github.com/tamasino52/Any-GCN)  |    52.4mm     |    41.2mm     |
 |      [MM-GCN](https://github.com/JaeYungLee/MM_GCN)       |    51.7mm     |    40.3mm     |
 |     [Modulated](https://github.com/ZhimingZo/Modulated-GCN)     |    49.4mm     |    39.1mm     |
+|     [GraphMLP](https://github.com/Vegetebird/GraphMLP)     |    48.0mm     |    38.4mm     |
 |       Ours        |    46.7mm     |    38.3mm     |
 
 ## Quick Start
