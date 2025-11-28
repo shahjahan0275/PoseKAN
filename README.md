@@ -1,4 +1,5 @@
 # PoseKAN
+[to be updated]
 
 # [PoseKAN: Adaptive Graph Kolmogorov-Arnold Network for 3D Human Pose Estimation](https://doi.org/10.48550/arXiv.2407.19077) [International Conference on 3D Vision 2026]
 
