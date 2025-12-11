@@ -18,7 +18,7 @@ This repository contains the official PyTorch implementation of the  flexible gr
 ## Network Architecture
 
 <div align="center">
-  <img src="https://github.com/shahjahan0275/Flex-GCN/blob/main/demo/" alt="Network_Architechture" width="600" height="200">
+  <img src="https://github.com/shahjahan0275/PoseKAN/blob/main/demo/" alt="PoseKAN_Architechture" width="600" height="200">
 </div>
 
 
