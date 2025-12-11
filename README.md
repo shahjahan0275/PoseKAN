@@ -26,7 +26,7 @@ The PyTorch implementation for Flex-GCN
 
 ## Qualitative and quantitative results
 
-![Greeting](https://github.com/shahjahan0275/Flex-GCN/blob/main/demo/Greeting.gif)
+![Greeting](https://github.com/shahjahan0275/PoseKAN/blob/main/demo/smoking.gif)
 
 ## Results on Human3.6M 	
 
