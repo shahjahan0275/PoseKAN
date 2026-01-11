@@ -19,7 +19,7 @@ This repository contains the official PyTorch implementation of the  flexible gr
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/shahjahan0275/PoseKAN/main/demo/PoseKAN_Architecture.png" 
-       alt="PoseKAN_Architecture" width="600">
+       alt="PoseKAN_Architecture" width="300">
 </div>
 
 The PyTorch implementation for PoseKAN
