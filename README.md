@@ -18,7 +18,7 @@ This repository contains the official PyTorch implementation of the  flexible gr
 ## Network Architecture
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shahjahan0275/PoseKAN/main/demo/PoseKAN_Architecture.png" 
+  <img src="https://raw.githubusercontent.com/shahjahan0275/PoseKAN/main/demo/PoseKAN_Architecture.pdf" 
        alt="PoseKAN_Architecture" width="600">
 </div>
 
